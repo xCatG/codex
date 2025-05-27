@@ -1,0 +1,8 @@
+pydantic
+pyyaml
+python-dotenv
+openai
+click
+textual
+pytest
+pytest-mock
